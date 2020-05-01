@@ -32,7 +32,7 @@ This will create a copy of this repository in your account.
 
 ### Make necessary changes and commit those changes
 
-Open [`Songs.md`](https://github.com/ritvikkhanna09/CodePlayList/blob/master/Songs.md) file in your repository, click edit file and contribute. Commit the file with a comment. Refer to [`Rules_and_Regulations.md`]() for contribution details.
+Open [`Songs.md`](https://github.com/ritvikkhanna09/CodePlayList/blob/master/Songs.md) file in your repository, click edit file and contribute. Commit the file with a comment. Refer to [`Rules_and_Regulations.md`](https://github.com/codeplaylist/CodePlayList/blob/master/Rules_and_Regulations.md) for contribution details.
 
 Now open [`Contributors.md`](https://github.com/ritvikkhanna09/CodePlayList/blob/master/Contributors.md) file in your repository, add your name to it. Now, commit the file.
 
